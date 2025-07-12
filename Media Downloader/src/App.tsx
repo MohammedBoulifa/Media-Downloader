@@ -429,4 +429,4 @@ const MediaDownloaderApp = () => {
   );
 };
 
-export default MediaDownloaderApp as default;
+export default MediaDownloaderApp;
